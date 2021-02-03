@@ -1,5 +1,5 @@
 baseurl: ""
-url: ""
+url: "https://vaibhava.rotaract3190.org"
 
 # compress_html:
 #   clippings: []
@@ -15,8 +15,8 @@ url: ""
   # - jekyll-sitemap
 #   - "jekyll-github-metadata"
 
-# include:
-#   - _redirects
+include:
+  - _redirects
   
 # exclude:
 #   [
