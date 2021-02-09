@@ -1,0 +1,85 @@
+features:
+  - title: Experienced and Enthusiastic
+    image: /images/home/image1.png
+    brief: Pork belly leberkas cow short ribs capicola pork loin. Doner fatback frankfurter jerky meatball pastrami bacon tail sausage. Turkey fatback ball tip, tri-tip tenderloin drumstick salami strip steak.
+  - title: Games and Fun Web
+    image: /images/home/image2.png
+    brief: Mollit eiusmod id chuck turducken laboris meatloaf pork loin tenderloin swine. Pancetta excepteur fugiat strip steak tri-tip. Swine salami eiusmod sint, ex id venison non. Fugiat ea jowl cillum meatloaf.
+  - title: Games and Fun Web
+    image: images/home/image3.png
+    brief: Ut officia cupidatat anim excepteur fugiat cillum ea occaecat rump pork chop tempor. Ut tenderloin veniam commodo. Shankle aliquip short ribs, chicken eiusmod exercitation shank landjaeger spare ribs corned beef.
+
+glimpses:
+  - title: Hello image
+    image: /images/portfolio/1.jpg
+  - title: Hello image
+    image: /images/portfolio/1.jpg
+  - title: Hello image
+    image: /images/portfolio/1.jpg
+  - title: Hello image
+    image: /images/portfolio/1.jpg
+
+slabs:
+  - title: Early Bird
+    price: 2000
+    active: true
+    link: https://rtr.zeospec.com
+    items:
+      - title: Games and Fun
+        icon: group
+      - title: Games and Fun
+        icon: group
+  - title: Early Bird
+    price: ----
+    active: false
+    link: https://rtr.zeospec.com
+    items:
+      - title: Games and Fun
+        icon: group
+      - title: Games and Fun
+        icon: group
+  - title: Early Bird
+    price: ----
+    active: false
+    link: https://rtr.zeospec.com
+    items:
+      - title: Games and Fun
+        icon: group
+      - title: Games and Fun
+        icon: group
+  - title: Early Bird
+    price: ----
+    active: false
+    link: https://rtr.zeospec.com
+    items:
+      - title: Games and Fun
+        icon: group
+      - title: Games and Fun
+        icon: group
+
+team:
+  - name: Hello image
+    role: Chair
+    image: /images/portfolio/1.jpg
+    social:
+      facebook: https://rtr.zeospec.com
+  - name: Hello image
+    role: Chair
+    image: /images/portfolio/1.jpg
+    social:
+      facebook: https://rtr.zeospec.com
+  - name: Hello image
+    role: Chair
+    image: /images/portfolio/1.jpg
+    social:
+      facebook: https://rtr.zeospec.com
+  - name: Hello image
+    role: Chair
+    image: /images/portfolio/1.jpg
+    social:
+      facebook: https://rtr.zeospec.com
+  - name: Hello image
+    role: Chair
+    image: /images/portfolio/1.jpg
+    social:
+      facebook: https://rtr.zeospec.com
