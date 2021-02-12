@@ -1,34 +1,8 @@
 baseurl: ""
 url: "https://vaibhava.rotaract3190.org"
 
-# compress_html:
-#   clippings: []
-#   comments: []
-#   endings: []
-#   ignore:
-#     envs: []
-#   blanklines: false
-#   profile: false
-#   startings: []
-
-# plugins:
-  # - jekyll-sitemap
-#   - "jekyll-github-metadata"
+plugins:
+  - jekyll-sitemap
 
 include:
   - _redirects
-  
-# exclude:
-#   [
-#     "_assets",
-#     "Gemfile",
-#     "Gemfile.lock",
-#     "gulpfile.js",
-#     "node_modules",
-#     "package.json",
-#     "README.md",
-#     "yarn.lock",
-#     "LICENSE",
-#     "package-lock.json",
-#     "docs"
-#   ]
