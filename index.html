@@ -52,10 +52,6 @@
 	    <script src="js/respond.min.js"></script>
     <![endif]-->       
     <link rel="shortcut icon" href="images/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
 </head><!--/head-->
 
 <body>
@@ -67,19 +63,11 @@
             <br><br>
             <div class="main-slider">
                 <div class="slide-text">
-                    <h1>Welcome to </h1>
-                    <p>Boudin doner frankfurter pig. Cow shank bresaola pork loin tri-tip tongue venison pork belly meatloaf short loin landjaeger biltong beef ribs shankle chicken andouille.</p>
-                    <a href="#" class="btn btn-common">Register</a>
+                    <h1>Welcome </h1>
+                    <p>The summons are here! Our Empire awaits your presence at the 43rd Annual District Rotaract Conference 2020-2021. Your majesty has it all lined up, the conference court, adventurous camps and of course the Fun-fair. Armour-up and get ready for the most Royal experience of the year! Scroll down for more.</p>
+                    <a href="{{site.data.info.cta_link}}" target="_blank" class="btn btn-common">Register</a>
                 </div>
-                <!-- <img src="images/mysore-palace.png" class="img-responsive slider-house" alt="slider image"> -->
-                <img src="images/home/slider/slide1/house.png" class="img-responsive slider-house" alt="slider image">
-                <!-- <img src="images/home/slider/slide1/circle1.png" class="slider-circle1" alt="slider image"> -->
-                <!-- <img src="images/home/slider/slide1/circle2.png" class="slider-circle2" alt="slider image"> -->
-                <!-- <img src="images/home/slider/slide1/cloud1.png" class="slider-cloud1" alt="slider image">
-                <img src="images/home/slider/slide1/cloud2.png" class="slider-cloud2" alt="slider image">
-                <img src="images/home/slider/slide1/cloud3.png" class="slider-cloud3" alt="slider image">
-                <img src="images/home/slider/slide1/sun.png" class="slider-sun" alt="slider image"> -->
-                <!-- <img src="images/home/cycle.png" class="slider-cycle" alt=""> -->
+                <img src="images/bangalore-palace.png" class="img-responsive slider-house" alt="slider image">
             </div>
         </div>
         <div class="preloader"><i class="fa fa-sun-o fa-spin"></i></div>
@@ -126,7 +114,7 @@
                         </div>
                         <div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="tour-button">
-                                <a href="https://rtr.zeospec.com" target="_blank" class="btn btn-common">GET ONBOARD</a>
+                                <a href="{{site.data.info.cta_link}}" target="_blank" class="btn btn-common">GET ONBOARD</a>
                              </div>
                         </div>
                     </div>
@@ -171,9 +159,8 @@
      <section id="recent-projects" class="recent-projects">
         <div class="container">
             <div class="row">
-                <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Glimpses</h1>
-                <p class="text-center padding-bottom wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
-                Ut enim ad minim veniam, quis nostrud </p>
+                <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Venue</h1>
+                <p class="text-center padding-bottom wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">Take a glance at our humble abode.</p>
 
                 {% for glimpse in site.data.info.glimpses %}
                 <div class="col-sm-3 col-xs-6 wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -205,7 +192,7 @@
             <div class="row">
 
                 <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Join Now</h1>
-                <p class="text-center padding-bottom wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
+                <p class="text-center padding-bottom wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">Join and experience the best to be unfolded. <br>
                 {% for slab in site.data.info.slabs %}
                 <div class="col-sm-6 col-md-3">
                     <div class="single-price {% if slab.active %}highligh-table{% endif %}">
@@ -230,8 +217,7 @@
         <div class="container">
             <div class="row">
                 <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Meet the Team</h1>
-                <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
-                Ut enim ad minim veniam, quis nostrud </p>
+                <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">#TeamVaibhava2021</p>
                 <div id="team-carousel" class="carousel slide wow fadeIn" data-ride="carousel" data-wow-duration="400ms" data-wow-delay="400ms">
                     <!-- Indicators -->
                     <ol class="carousel-indicators visible-xs">
@@ -296,29 +282,16 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="clients text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <p><img src="images/home/clients.png" class="img-responsive" alt=""></p>
+                        <p><img src="images/pillar.png" class="img-responsive" alt=""></p>
                         <h1 class="title">Our Sponsors</h1>
-                        <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud </p>
+                        <p>Sponsor for outreach, branding and sales. <br>Write to us for more details.<br>Email: vaibhava2021@email.com</p>
                     </div>
                     <div class="clients-logo wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        {% for sponsor in site.data.info.sponsors %}
                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client1.png" class="img-responsive" alt=""></a>
+                            <a href="{{sponsor.url}}" target="_blank"><img src="{{sponsor.logo | relative_url}}" class="img-responsive" alt="{{sponsor.title}}"></a>
                         </div>
-                        <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client2.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client3.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client4.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client5.png" class="img-responsive" alt=""></a>
-                        </div>
-                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client6.png" class="img-responsive" alt=""></a>
-                        </div>
+                        {% endfor %}
                     </div>
                 </div>
             </div>

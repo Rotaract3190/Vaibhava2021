@@ -2,16 +2,24 @@ title: Vaibhava 2021 | The 43rd Annual District Rotaract Conferece | RID 3190
 description: 
 og_img: /images/logo-home.png
 
+cta_link: https://rtr.zeospec.com
+
 features:
-  - title: Experienced and Enthusiastic
+  - title: Mr. and Ms. 3190 for 2020-21
     image: /images/home/image1.png
-    brief: Pork belly leberkas cow short ribs capicola pork loin. Doner fatback frankfurter jerky meatball pastrami bacon tail sausage. Turkey fatback ball tip, tri-tip tenderloin drumstick salami strip steak.
-  - title: Games and Fun Web
+    brief: Don’t miss the chance to be this year's Mr. & Mrs. 3190 for 2020-21. All it takes is a little self-confidence and little wit to get through. Come mark your territory and prove to your subjects that you are worthy enough to be crowned as the new Mr. & Ms. of the glorious RID 3190. 
+  - title: Pool Party and Rain Dance
     image: /images/home/image2.png
-    brief: Mollit eiusmod id chuck turducken laboris meatloaf pork loin tenderloin swine. Pancetta excepteur fugiat strip steak tri-tip. Swine salami eiusmod sint, ex id venison non. Fugiat ea jowl cillum meatloaf.
-  - title: Games and Fun Web
+    brief: Get ready to feel like a highborn at our pool party. You couldn’t think of a better way to make allies. The only question would be if you are ready to dance and move in this never-ending night of fun and friendship.
+  - title: Adventures and Camps
     image: images/home/image3.png
-    brief: Ut officia cupidatat anim excepteur fugiat cillum ea occaecat rump pork chop tempor. Ut tenderloin veniam commodo. Shankle aliquip short ribs, chicken eiusmod exercitation shank landjaeger spare ribs corned beef.
+    brief: Show us your kingly powers and strength as Vaibhava awaits you with exciting camps and adventurous tasks. Register now, swipe down for more.
+  - title: Speakers
+    image: images/home/image3.png
+    brief: Impressive and inspirational speakers are invited to our humble abode. Their august presence will motivate you to go to paramount designations of life.
+  - title: Zone roll-calls
+    image: images/home/image3.png
+    brief: Not to forget the most exciting part of a conference. Zonal- Roll calls! Get ready to Hail for your zone as the medieval Kannada kingdoms meet. Only time would tell who will stand on top as the victorious zone.
 
 glimpses:
   - title: Hello image
@@ -25,65 +33,148 @@ glimpses:
 
 slabs:
   - title: Early Bird
-    price: 2000
+    price: 2252
     active: true
     link: https://rtr.zeospec.com
     items:
-      - title: Games and Fun
-        icon: group
-      - title: Games and Fun
-        icon: group
-  - title: Early Bird
+      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
+        icon: bus
+      - title: Conference Entry
+        icon: star
+      - title: Tent Stay
+        icon: home
+      - title: Adventure Games
+        icon: trophy
+      - title: Delegate Kits
+        icon: gift
+      - title: ... and more
+        icon: info
+  - title: First Slab
     price: ----
     active: false
     link: https://rtr.zeospec.com
     items:
-      - title: Games and Fun
-        icon: group
-      - title: Games and Fun
-        icon: group
-  - title: Early Bird
+      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
+        icon: bus
+      - title: Conference Entry
+        icon: star
+      - title: Tent Stay
+        icon: home
+      - title: Adventure Games
+        icon: trophy
+      - title: Delegate Kits
+        icon: gift
+      - title: ... and more
+        icon: info
+  - title: Second Slab
     price: ----
     active: false
     link: https://rtr.zeospec.com
     items:
-      - title: Games and Fun
-        icon: group
-      - title: Games and Fun
-        icon: group
-  - title: Early Bird
+      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
+        icon: bus
+      - title: Conference Entry
+        icon: star
+      - title: Tent Stay
+        icon: home
+      - title: Adventure Games
+        icon: trophy
+      - title: Delegate Kits
+        icon: gift
+      - title: ... and more
+        icon: info
+  - title: Third Slab
     price: ----
     active: false
     link: https://rtr.zeospec.com
     items:
-      - title: Games and Fun
-        icon: group
-      - title: Games and Fun
-        icon: group
+      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
+        icon: bus
+      - title: Conference Entry
+        icon: star
+      - title: Tent Stay
+        icon: home
+      - title: Adventure Games
+        icon: trophy
+      - title: Delegate Kits
+        icon: gift
+      - title: ... and more
+        icon: info
 
 team:
-  - name: Hello image
-    role: Chair
-    image: /images/portfolio/1.jpg
+  - name: PP. Rtr. Tarun Kumar Suresh
+    role: Chairman
+    image: /images/team/tarun.jpeg
     social:
-      facebook: https://rtr.zeospec.com
-  - name: Hello image
-    role: Chair
-    image: /images/portfolio/1.jpg
+      facebook: https://www.facebook.com/tarun.k.singam
+      instagram: https://www.instagram.com/tarunkumarsingam/
+      phone: tel:+91 8618459039
+  - name: Rtr. Yeshwanth Gowda
+    role: Secretary
+    image: /images/team/yeshwant.JPG
     social:
-      facebook: https://rtr.zeospec.com
-  - name: Hello image
-    role: Chair
-    image: /images/portfolio/1.jpg
+      facebook: https://www.facebook.com/profile.php?id=100004522743949
+      instagram: https://www.instagram.com/___babayaga__/
+      phone: tel:9164382275
+  - name: Rtr. Padmini Kustagi
+    role: Joint Secretary
+    image: /images/team/padmini.jpeg
     social:
-      facebook: https://rtr.zeospec.com
-  - name: Hello image
-    role: Chair
-    image: /images/portfolio/1.jpg
+      facebook: https://www.facebook.com/profile.php?id=100009597541891
+      instagram: https://instagram.com/im_padmini/
+      phone: tel:+91 8277654946
+  - name: Rtr. Hemanth Kumar
+    role: Operations Head
+    image: /images/team/hemanth.jpeg
     social:
-      facebook: https://rtr.zeospec.com
-  - name: Hello image
-    role: Chair
-    image: /images/portfolio/1.jpg
+      facebook: https://www.facebook.com/hemanthkumarkoma2
+      instagram: https://www.instagram.com/__hey_man.th__/
+      phone: tel:9611118059
+  - name: Rtr. Krishna Mukhopadhyay
+    role: PR Team Member
+    image: /images/team/krishna.jpeg
     social:
-      facebook: https://rtr.zeospec.com
+      facebook: https://www.facebook.com/batmankrishh
+      instagram: https://instagram.com/krishna_mukhopadhyay/
+      phone: tel:8971960306
+  - name: Rtr. Bala Tatwick Vempati
+    role: PR Team Member
+    image: /images/team/tatwick.jpeg
+    social:
+      facebook: https://www.facebook.com/vb.tatwick/
+      instagram: http://instagram.com/vbtatwick
+      phone: tel:8179920812
+  - name: Rtr. Syed Asad Raza Najafi
+    role: PR Team Member
+    image: /images/team/asad.jpeg
+    social:
+      facebook: https://www.facebook.com/Asadraaza/
+      instagram: http://instagram.com/_debugging_errors/
+      phone: tel:7624878786
+  - name: Rtr. Sneha Maheshwari
+    role: PR Team Member
+    image: /images/team/sneha.jpeg
+    social:
+      facebook: https://www.facebook.com/sneha.maheshwari.5811
+      instagram: http://instagram.com/maheshwari_sneha/
+      phone: tel:8902225930
+
+sponsors:
+  - title: ZeoSpec
+    logo: /images/home/client1.png
+    url: https://rtr.zeospec.com
+  - title: ZeoSpec
+    logo: /images/home/client1.png
+    url: https://rtr.zeospec.com
+  - title: ZeoSpec
+    logo: /images/home/client1.png
+    url: https://rtr.zeospec.com
+  - title: ZeoSpec
+    logo: /images/home/client1.png
+    url: https://rtr.zeospec.com
+  - title: ZeoSpec
+    logo: /images/home/client1.png
+    url: https://rtr.zeospec.com
+  - title: ZeoSpec
+    logo: /images/home/client1.png
+    url: https://rtr.zeospec.com

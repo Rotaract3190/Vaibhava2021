@@ -369,7 +369,7 @@ ul.sub-menu {
 
 #footer {
   padding-bottom: 75px;
-  background-image: url(../images/home/footer.png);
+  background-image: url(../images/horse-footer.png);
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: contain;
@@ -770,7 +770,7 @@ ul.sub-menu {
 }
 
 .tour-button {
-  background-image: url(../images/home/tour-icon2.png);
+  background-image: url(../images/elephant-strip.png);
   height: 100%;
   background-repeat: no-repeat;
   position: absolute;
