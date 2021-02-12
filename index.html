@@ -65,7 +65,7 @@
                 <div class="slide-text">
                     <h1>Welcome </h1>
                     <p>The summons are here! Our Empire awaits your presence at the 43rd Annual District Rotaract Conference 2020-2021. Your majesty has it all lined up, the conference court, adventurous camps and of course the Fun-fair. Armour-up and get ready for the most Royal experience of the year! Scroll down for more.</p>
-                    <a href="{{site.data.info.cta_link}}" target="_blank" class="btn btn-common">Register</a>
+                    <a href="#price-table" class="btn btn-common">Register</a>
                 </div>
                 <img src="images/bangalore-palace.png" class="img-responsive slider-house" alt="slider image">
             </div>
@@ -114,7 +114,7 @@
                         </div>
                         <div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="tour-button">
-                                <a href="{{site.data.info.cta_link}}" target="_blank" class="btn btn-common">GET ONBOARD</a>
+                                <a href="#price-table" class="btn btn-common">GET ONBOARD</a>
                              </div>
                         </div>
                     </div>
@@ -191,7 +191,7 @@
         <div id="price-table">
             <div class="row">
 
-                <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Join Now</h1>
+                <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Register Now</h1>
                 <p class="text-center padding-bottom wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">Join and experience the best to be unfolded. <br>
                 {% for slab in site.data.info.slabs %}
                 <div class="col-sm-6 col-md-3">
@@ -206,7 +206,7 @@
                             {% endfor %}
                         </ul>
                         {% if slab.active %}
-                        <a href="{{slab.link}}" target="_blank" class="btn btn-buynow">Register Now</a>
+                        <a href="{{site.data.info.cta_link}}" target="_blank" class="btn btn-buynow">Register Now</a>
                         {% else %}
                         <a class="btn btn-buynow">Register Now</a>
                         {% endif %}

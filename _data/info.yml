@@ -47,7 +47,6 @@ slabs:
   - title: Early Bird
     price: 2252
     active: true
-    link: https://rtr.zeospec.com
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
         icon: bus
@@ -62,9 +61,8 @@ slabs:
       - title: ... and more
         icon: info
   - title: First Slab
-    price: ----
+    price: 2642
     active: false
-    link: https://rtr.zeospec.com
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
         icon: bus
@@ -79,9 +77,8 @@ slabs:
       - title: ... and more
         icon: info
   - title: Second Slab
-    price: ----
+    price: 2822
     active: false
-    link: https://rtr.zeospec.com
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
         icon: bus
@@ -96,9 +93,8 @@ slabs:
       - title: ... and more
         icon: info
   - title: Third Slab
-    price: ----
+    price: 3190
     active: false
-    link: https://rtr.zeospec.com
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
         icon: bus
