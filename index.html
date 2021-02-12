@@ -205,7 +205,11 @@
                             <li>{{item.title}} <span><i class="fa fa-{{item.icon}}"></i></span></li>
                             {% endfor %}
                         </ul>
+                        {% if slab.active %}
                         <a href="{{slab.link}}" target="_blank" class="btn btn-buynow">Register Now</a>
+                        {% else %}
+                        <a class="btn btn-buynow">Register Now</a>
+                        {% endif %}
                     </div>
                 </div>
                 {% endfor %}
