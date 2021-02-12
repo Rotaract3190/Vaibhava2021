@@ -469,8 +469,8 @@
   }
 
   #countdown {
-    margin-bottom: 0;
-    margin-top: 50px;
+    /* margin-bottom: 0;
+    margin-top: 10px; */
   }
 
   #countdown li {
@@ -642,8 +642,8 @@
   }
 
   #countdown {
-    margin-bottom: 0;
-    margin-top: 50px;
+    /* margin-bottom: 0; */
+    /* margin-top: 5px; */
   }
 
   #countdown li {

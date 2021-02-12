@@ -369,7 +369,7 @@ ul.sub-menu {
 
 #footer {
   padding-bottom: 75px;
-  background-image: url(../images/home/footer.png);
+  background-image: url(../images/horse-footer.png);
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: contain;
@@ -511,7 +511,7 @@ ul.sub-menu {
 }
 
 #home-slider .slide-text{
-  position: absolute;
+  position: relative;
   top: 50px;
   left: 0;
   width: 450px;
@@ -741,6 +741,9 @@ ul.sub-menu {
   margin-bottom: 10px;
 }
 
+.clients-logo img {
+  margin-top: 10px;
+}
 
 
 /*************************
@@ -770,7 +773,7 @@ ul.sub-menu {
 }
 
 .tour-button {
-  background-image: url(../images/home/tour-icon2.png);
+  background-image: url(../images/elephant-strip.png);
   height: 100%;
   background-repeat: no-repeat;
   position: absolute;
@@ -2380,11 +2383,11 @@ span.stButton_gradient,
 }
 
 #coming-soon {
-  background-image: url("../images/home/tour-bg.png");
+  /* background-image: url("../images/home/tour-bg.png");
   background-position: center top;
   background-repeat: repeat-x;
   padding: 40px 0;
-  overflow: hidden;
+  overflow: hidden; */
 }
 
 #coming-soon .social-link {
