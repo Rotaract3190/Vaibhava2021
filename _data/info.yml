@@ -156,12 +156,19 @@ team:
       instagram: http://instagram.com/_debugging_errors/
       phone: tel:7624878786
   - name: Rtr. Sneha Maheshwari
-    role: PR Team Member
+    role: Editor
     image: /images/team/sneha.jpeg
     social:
       facebook: https://www.facebook.com/sneha.maheshwari.5811
       instagram: http://instagram.com/maheshwari_sneha/
       phone: tel:8902225930
+  - name: Rtr. Kiran Jayraj
+    role: Editor
+    image: /images/team/kiran.jpeg
+    social:
+      facebook: https://m.facebook.com/kiran.kiru.5243
+      instagram: https://www.instagram.com/_kiran.j_/
+      phone: tel:9066515369
 
 sponsors:
   # - title: ZeoSpec
