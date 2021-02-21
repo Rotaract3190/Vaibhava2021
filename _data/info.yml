@@ -40,25 +40,9 @@ glimpses:
     image: /images/venue/10.jpeg
 
 slabs:
-  - title: Early Bird
-    price: 2252
-    active: true
-    items:
-      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
-        icon: bus
-      - title: Conference Entry
-        icon: star
-      - title: Tent Stay
-        icon: home
-      - title: Adventure Games
-        icon: trophy
-      - title: Delegate Kits
-        icon: gift
-      - title: ... and more
-        icon: info
   - title: First Slab
     price: 2642
-    active: false
+    active: true
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
         icon: bus
@@ -91,6 +75,22 @@ slabs:
   - title: Third Slab
     price: 3190
     active: false
+    items:
+      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
+        icon: bus
+      - title: Conference Entry
+        icon: star
+      - title: Tent Stay
+        icon: home
+      - title: Adventure Games
+        icon: trophy
+      - title: Delegate Kits
+        icon: gift
+      - title: ... and more
+        icon: info
+  - title: Other District Delegates
+    price: 3190
+    active: true
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
         icon: bus
