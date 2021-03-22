@@ -56,6 +56,22 @@ slabs:
         icon: gift
       - title: ... and more
         icon: info
+  - title: Other District Delegates
+    price: 3190
+    active: true
+    items:
+      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
+        icon: bus
+      - title: Conference Entry
+        icon: star
+      - title: Tent Stay
+        icon: home
+      - title: Adventure Games
+        icon: trophy
+      - title: Delegate Kits
+        icon: gift
+      - title: ... and more
+        icon: info
   - title: Second Slab
     price: 2822
     active: false
@@ -75,22 +91,6 @@ slabs:
   - title: Third Slab
     price: 3190
     active: false
-    items:
-      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
-        icon: bus
-      - title: Conference Entry
-        icon: star
-      - title: Tent Stay
-        icon: home
-      - title: Adventure Games
-        icon: trophy
-      - title: Delegate Kits
-        icon: gift
-      - title: ... and more
-        icon: info
-  - title: Other District Delegates
-    price: 3190
-    active: true
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
         icon: bus
@@ -166,9 +166,66 @@ team:
     role: Editor
     image: /images/team/kiran.jpeg
     social:
-      facebook: https://m.facebook.com/kiran.kiru.5243
+      facebook: https://www.facebook.com/kiran.kiru.5243
       instagram: https://www.instagram.com/_kiran.j_/
       phone: tel:9066515369
+  - name: Rtr. Gajula Pankaj
+    role: Ambassador
+    image: /images/team/Pankaj.jpeg
+    social:
+      facebook: https://www.facebook.com/pinku.gajula
+      instagram: https://www.instagram.com/pinku_pankaj
+      phone: tel:8106048318
+  - name: Rtr. Likitha P Mahdiker
+    role: Ambassador
+    image: /images/team/Likitha.jpeg
+    social:
+      facebook: https://www.facebook.com/likita.mahdiker
+      instagram: https://www.instagram.com/likitha_mahdiker/
+      phone: tel:7259187549
+  - name: Rtr. Melvin Anthony Miltan
+    role: Ambassador
+    image: /images/team/Melvin.jpeg
+    social:
+      facebook: https://www.facebook.com/melvin.miltan
+      instagram: https://www.instagram.com/melvinam7
+      phone: tel:9986078870
+  - name: Rtr. Surakshith S
+    role: Ambassador
+    image: /images/team/Surakshith.jpeg
+    social:
+      facebook: https://www.facebook.com/surakshith.surakshith.s
+      instagram: https://instagram.com/5urakshith
+      phone: tel:9738322420
+  - name: Rtr. RAHUL R
+    role: Ambassador
+    image: /images/team/RAHUL.jpeg
+    social:
+      facebook: https://www.facebook.com/rahul.srk.1238292
+      instagram: 
+      phone: tel:9113220872
+  - name: Rtr. Sharanya Sridhar
+    role: Ambassador
+    image: /images/team/Sharanya.jpeg
+    social:
+      facebook: https://www.facebook.com/sharanya.sridhar.73
+      instagram: https://instagram.com/sharanyeahhhh
+      phone: tel:8618131799
+  - name: Rtr. Shaik Neha Hussain
+    role: Ambassador
+    image: /images/team/Neha.jpeg
+    social:
+      facebook: 
+      instagram: https://www.instagram.com/nehaa_.19/
+      phone: tel:9663284548
+  - name: Rtr. Chethan Krishna G R
+    role: Ambassador
+    image: /images/team/Chethan.jpeg
+    social:
+      facebook: https://www.facebook.com/chethankrishnagr
+      instagram: https://instagram.com/chethankrishnagr
+      phone: tel:9483517070
+
 
 sponsors:
   # - title: ZeoSpec
