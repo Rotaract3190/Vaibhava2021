@@ -40,8 +40,8 @@ glimpses:
     image: /images/venue/10.jpeg
 
 slabs:
-  - title: First Slab
-    price: 2642
+  - title: Second Slab
+    price: 2822
     active: true
     items:
       - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
@@ -72,22 +72,6 @@ slabs:
         icon: gift
       - title: ... and more
         icon: info
-  - title: Second Slab
-    price: 2822
-    active: false
-    items:
-      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
-        icon: bus
-      - title: Conference Entry
-        icon: star
-      - title: Tent Stay
-        icon: home
-      - title: Adventure Games
-        icon: trophy
-      - title: Delegate Kits
-        icon: gift
-      - title: ... and more
-        icon: info
   - title: Third Slab
     price: 3190
     active: false
@@ -104,7 +88,23 @@ slabs:
         icon: gift
       - title: ... and more
         icon: info
-
+  - title: First Slab
+    price: 2642
+    active: false
+    items:
+      - title: Shuttle Bus from Nagasandra Metro Station (Pick up & drop)
+        icon: bus
+      - title: Conference Entry
+        icon: star
+      - title: Tent Stay
+        icon: home
+      - title: Adventure Games
+        icon: trophy
+      - title: Delegate Kits
+        icon: gift
+      - title: ... and more
+        icon: info
+        
 team:
   - name: PP. Rtr. Tarun Kumar Suresh
     role: Chairman
