@@ -192,17 +192,13 @@
     <section id="team">
         <div class="container">
             <div class="row">
-                <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Meet the Team</h1>
-                <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">#TeamVaibhava2021</p>
-                <div id="team-carousel" class="carousel slide wow fadeIn" data-ride="carousel" data-wow-duration="400ms" data-wow-delay="400ms">
-                    <!-- Indicators -->
-                    <ol class="carousel-indicators visible-xs">
-                        <li data-target="#team-carousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#team-carousel" data-slide-to="1"></li>
-                    </ol>
+                <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Our Guests</h1>
+                <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">#atVaibhava2021</p>
+                <div id="team-carousel" class="wow fadeIn" data-wow-duration="400ms" data-wow-delay="400ms">
+
                     <!-- Wrapper for slides -->
-                    <div class="carousel-inner">
-                        {% for member in site.data.info.team %}
+
+                        {% for member in site.data.info.guests %}
                         {% assign trace = forloop.index | modulo: 4 %}
                         {% if trace == 1 and forloop.first %}
                         {% elsif trace == 1 %}
@@ -210,10 +206,10 @@
                         {% endif %}
 
                         {% if trace == 1 %}
-                        <div class="item {% if forloop.first %}active{% endif %}">
+                        <div class="carousel-inner">
                         {% endif %}
                 
-                            <div class="col-sm-3 col-xs-6">
+                            <div class="col-sm-3 col-xs-12">
                                 <div class="team-single-wrapper">
                                     <div class="team-single">
                                         <div class="person-thumb">
@@ -242,11 +238,9 @@
                         {% endfor %}
 
 
-                    </div>
 
-                    <!-- Controls -->
-                    <a class="left team-carousel-control hidden-xs" href="#team-carousel" data-slide="prev">left</a>
-                    <a class="right team-carousel-control hidden-xs" href="#team-carousel" data-slide="next">right</a>
+
+
                 </div>
             </div>
         </div>

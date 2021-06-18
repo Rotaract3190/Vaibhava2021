@@ -104,7 +104,90 @@ slabs:
         icon: gift
       - title: ... and more
         icon: info
-        
+
+guests:
+  - name: Yaduveer Krishnadatta Chamaraja Wadiyar
+    role: The 27th and Current Custodian of the Royal House of Mysore
+    image: /images/guests/wodeyar.png
+    social:
+      facebook: https://www.facebook.com/ykcwadiyar
+      instagram: https://www.instagram.com/ykcwadiyar/
+      link: https://www.ykcwadiyar.in/
+      phone: 
+  - name: Mr. Dharmendra Kumar
+    role: Mysoorina Kathegalu
+    image: /images/guests/dharmendra.png
+    social:
+      facebook: 
+      instagram: 
+      link: 
+      phone:
+  - name: Varun Ramani
+    role: Co-Founder – Ziniosa
+    image: /images/guests/Varun.png
+    social:
+      linkedin: https://www.linkedin.com/in/varunramani/
+      instagram: 
+      link: 
+      phone:
+  - name: Varsha V Belawadi
+    role: Badminton Player, Couch & Actor
+    image: /images/guests/Varsha.png
+    social:
+      linkedin: 
+      instagram: 
+      link: 
+      phone: 
+  - name: Shimon Jasmine Rasheed
+    role: Music Producer, Audio engineer, Violinist 
+    image: /images/guests/shimon.png
+    social:
+      linkedin: 
+      instagram: 
+      link: 
+      phone: 
+  - name: Gokul Hariharan
+    role: Singer & Guitarist
+    image: /images/guests/gokul.png
+    social:
+      linkedin: 
+      instagram: 
+      link: 
+      phone: 
+  - name: Rtr. Esha Goswami 
+    role: Singer & Guitarist
+    image: /images/guests/esha.png
+    social:
+      linkedin: 
+      instagram: 
+      link: 
+      phone: 
+  - name: Rtr. Shubham Soni
+    role: Flutist
+    image: /images/guests/shubham.png
+    social:
+      linkedin: 
+      instagram: 
+      link: 
+      phone: 
+  - name: Mr. Nithin Nanjappa
+    role: Theatre Artist
+    image: /images/guests/nitin.png
+    social:
+      linkedin: 
+      instagram: 
+      link: 
+      phone: 
+  - name: Rtr. Pranav Bhat
+    role: Stand-up Comedian & Rapper
+    image: /images/guests/pranav.png
+    social:
+      linkedin: 
+      instagram: 
+      link: 
+      phone: 
+
+
 team:
   - name: PP. Rtr. Tarun Kumar Suresh
     role: Chairman
