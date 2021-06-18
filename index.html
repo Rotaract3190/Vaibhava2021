@@ -188,10 +188,73 @@
             </div>
         </div>
     </section> -->
-    
-    <!--/#recent-projects-->
 
-    <!-- <section class="container">        
+    <section id="team">
+        <div class="container">
+            <div class="row">
+                <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Meet the Team</h1>
+                <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">#TeamVaibhava2021</p>
+                <div id="team-carousel" class="carousel slide wow fadeIn" data-ride="carousel" data-wow-duration="400ms" data-wow-delay="400ms">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators visible-xs">
+                        <li data-target="#team-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#team-carousel" data-slide-to="1"></li>
+                    </ol>
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        {% for member in site.data.info.team %}
+                        {% assign trace = forloop.index | modulo: 4 %}
+                        {% if trace == 1 and forloop.first %}
+                        {% elsif trace == 1 %}
+                        </div>
+                        {% endif %}
+
+                        {% if trace == 1 %}
+                        <div class="item {% if forloop.first %}active{% endif %}">
+                        {% endif %}
+                
+                            <div class="col-sm-3 col-xs-6">
+                                <div class="team-single-wrapper">
+                                    <div class="team-single">
+                                        <div class="person-thumb">
+                                            <img src="{{member.image | relative_url}}" class="img-responsive" alt="{{member.name}}">
+                                        </div>
+                                        <div class="social-profile">
+                                            <ul class="nav nav-pills">
+                                                {% for social in member.social %}
+                                                    {% if social[1] %}
+                                                    <li><a href="{{ social[1] }}" target="_blank"><i class="fa fa-{{ social[0] }}"></i></a></li>
+                                                    {% endif %}
+                                                {% endfor %}
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="person-info">
+                                        <h2>{{member.name}}</h2>
+                                        <p>{{member.role}}</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        {% if forloop.last %}
+                        </div>
+                        {% endif %}
+                        {% endfor %}
+
+
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left team-carousel-control hidden-xs" href="#team-carousel" data-slide="prev">left</a>
+                    <a class="right team-carousel-control hidden-xs" href="#team-carousel" data-slide="next">right</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--/#recent-projects-->
+<!-- 
+    <section class="container">        
         <div id="price-table">
             <div class="row">
 

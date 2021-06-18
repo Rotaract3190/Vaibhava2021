@@ -155,6 +155,13 @@ team:
       facebook: https://www.facebook.com/Asadraaza/
       instagram: http://instagram.com/_debugging_errors/
       phone: tel:7624878786
+  - name: Rtr. Vivekananda Reddy S
+    role: PR Team Member
+    image: /images/team/vivek.jpeg
+    social:
+      facebook: 
+      instagram: https://instagram.com/i_am_leo_
+      phone: 
   - name: Rtr. Sneha Maheshwari
     role: Editor
     image: /images/team/sneha.jpeg
@@ -169,6 +176,13 @@ team:
       facebook: https://www.facebook.com/kiran.kiru.5243
       instagram: https://www.instagram.com/_kiran.j_/
       phone: tel:9066515369
+  - name: Rtr. Rashi Pareek
+    role: Editor
+    image: /images/team/rashi.jpeg
+    social:
+      facebook: 
+      instagram: https://www.instagram.com/rashiprk_0115
+      phone: 
   - name: Rtr. Gajula Pankaj
     role: Ambassador
     image: /images/team/Pankaj.jpeg
@@ -225,7 +239,6 @@ team:
       facebook: https://www.facebook.com/chethankrishnagr
       instagram: https://instagram.com/chethankrishnagr
       phone: tel:9483517070
-
 
 sponsors:
   # - title: ZeoSpec
