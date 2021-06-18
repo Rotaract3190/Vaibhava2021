@@ -246,6 +246,44 @@
         </div>
     </section>
 
+    <section id="features">
+        <div class="container">
+            <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Agenda</h1>
+
+            {% for day in site.data.info.agenda %}
+            
+            <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">{{day.title}}</p>
+            {% assign dayloop = forloop.index %}
+            
+            
+            <div id="accordion-container">
+                <div class="panel-group" id="accordion">
+                    {% for item in day.items %}
+                    {% assign itemloop = forloop.index %}
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title text-center">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{dayloop}}_{{itemloop}}">
+                                    {{item.title}}
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapse{{dayloop}}_{{itemloop}}" class="panel-collapse collapse">
+                            <div class="panel-body text-center">
+                                {{item.content}}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                </div><!--/#accordion-->
+            </div><!--/#accordion-container-->
+            
+            {% endfor %}
+        </div>
+
+    </section>
+    
     <!--/#recent-projects-->
 <!-- 
     <section class="container">        

@@ -187,6 +187,99 @@ guests:
       link: 
       phone: 
 
+agenda:
+  - title: Day 1
+    items:
+      - title: Emcee Intro & Welcome
+        content: 
+      - title: Collar DRR
+        content: Rtr. Raj Vamshi K B
+      - title: Vilon Performance 
+        content: Shimon Jasmine Rasheed
+      - title: Welcome Dance 
+        content: Rtr. Anusha - RaC Sunara College 
+      - title: Welcome Address by Conference Chair 
+        content: Rtr. Tarun Kumar Suresh
+      - title: Opening Remarks by DRR 
+        content: Rtr. Raj Vamshi K B
+      - title: Introduction & Address of DRCC
+        content: Rtn. Jayachandra Aaradhya 
+      - title: Introduction & Address of DYSD
+        content: Rtn. Krishna Mariyanka
+      - title: Introduction & Address of DG
+        content: Rtn. Nagendra Prasad
+      - title: Introduction & Address of Chief Guest
+        content: H.R.H Yaduveer Wadiyar
+      - title: Innaugral Vote of Thanks 
+        content: Rtr. Padmini Kustagi
+      - title: Introduction & Address of Speaker 1
+        content: Mr. Dharmendra Kumar - Mysoorina Kathegalu
+      - title: Zone Chalukya Roll Call
+        content: Rtr. Srinidhi & Rtr. Prajwal 
+      - title: Community Service Roll Call 
+        content: Rtr. Rakshith & Rtr. Chandramuthu 
+      - title: Hasiru Committee Roll Call
+        content: Rtr. Manjunath 
+      - title: PR & Editoral Roll Call 
+        content: Rtr. Akshay
+      - title: Performance by Rtr. Esha Goswami
+        content: Rtr. Esha Goswami - Rac MCC
+      - title: DRRE Open Stage
+        content: Rtr. Anurag 
+      - title: Zone Kadamba Roll Call 
+        content: Rtr. Joseph & Rtr. Amogh 
+      - title: District Presentation 
+        content: Rtr. Raj Vamshi / Secretariat
+      - title: Stand up Comedy & Rap by Rtr. Pranav Bhat
+        content: Rtr. Pranav Bhat - Rac East
+      - title: Proffesional Development Roll Call 
+        content: Rtr. Vamshika & Rtr. Sandesh 
+      - title: Literacy Committee Roll Call 
+        content: Rtr. Janice 
+      - title: Closing Remakrs for Day 1 
+        content: Rtr. Tarun Kumar Suresh 
+      - title: UnCollar DRR & Day 1 Conference Adjourned
+        content: Rtr. Raj Vamshi K B
+  - title: Day 2
+    items:
+      - title: Day 2 Welcome by EMCEE
+        content: 
+      - title: Collar DRR
+        content: Rtr. Raj Vamshi K B
+      - title: Performance
+        content: Rtr. Shubham Soni - Rac Uptown
+      - title: Day 2 Welcome Address 
+        content: Rtr. Yeshwanth & Rtr. Padmini 
+      - title: Introduction & Address of Speaker 2
+        content: Varun Ramani - Co-Fouder Ziniosa 
+      - title: Zone Hoysala Roll Call 
+        content: Rtr. Tarun Kumar & Rtr. Preetham 
+      - title: Club Service Roll Call
+        content: Rtr. Kiran & Rtr. Kishore 
+      - title: MHM Committee Roll Call 
+        content: Rtr. Aastha Singh 
+      - title: Performance 
+        content: 
+      - title: Zone Rastrakuta Roll Call 
+        content: Rtr. Udhay & Rtr. Chetan Gowda 
+      - title: International Service Roll Call 
+        content: Rtr. Kiran SHS & Rtr. Shreekara 
+      - title: WINS Committee Roll Call 
+        content: Rtr. Pushpita 
+      - title: Mr./Ms. 3190 - 3rd round
+        content: Host - Rtr. Padmini, Judges - Mr. Vinayak Joshi & PP. Rtr. Pooja Grish
+      - title: Performance 
+        content: Gokul Hariharan 
+      - title: Mr./Ms. 3190 -  3rd round
+        content: Host - Rtr. Padmini Judges - Mr. Vinayak Joshi & PP. Rtr. Pooja Grish
+      - title: Entertainment
+        content: 
+      - title: Valedictory 
+        content: Rtr. Tarun Kumar 
+      - title: Vote of Thanks 
+        content: Rtr. Yeshwanth Gowda 
+      - title: Uncollar DRR & Adjourn Conference 
+        content: Rtr. Raj Vamshi K.B 
 
 team:
   - name: PP. Rtr. Tarun Kumar Suresh
